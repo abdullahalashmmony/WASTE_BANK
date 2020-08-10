@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WASTE BANK</string>
+    <string name="Login">دخول</string>
+    <string name="waste_bank">WASTE BANK</string>
+    <string name="b_register">تسجيل </string>
+    <string name="profile">الصفحه الشخصية</string>
+    <string name="settings">الإعدادات</string>
+    <string name="log_out">تسجيل الخروج </string>
+    <string name="open">فتح</string>
+    <string name="close">غلق</string>
+    <string name="view_point">إظهار النقاط</string>
+    <string name="todo2">TODO</string>
+    <string name="check_your_point">التحقق من النقاط</string>
+
+    <string name="add">Add</string>
+    <string name="check_your_progress">تحليل البيانات</string>
+    <string name="progress">رسم بياني</string>
+    <string name="point_icon">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="about_us">من نحن</string>
+    <string name="more_information">المزيد من المعلومات</string>
+    <string name="go_to_website">اذهب الى الموقع</string>
+    <string name="website">الموقع الاكتروني</string>
+    <string name="no_account_yet_create_one">لا يوجد حساب بعد؟ مستخدم جديد</string>
+    <string name="password">الرقم السري</string>
+    <string name="_873">873</string>
+    <string name="username">Abdullah</string>
+    <string name="address">العنوان</string>
+    <string name="points">420</string>
+    <string name="cash">168</string>
+    <string name="mail">البريد الالكتروني</string>
+    <string name="phone">الهاتف</string>
+    <string name="Address">العنوان</string>
+    <string name="b139_elnargess_new_cairo_city">B139-Elnargess-New Cairo City</string>
+    <string name="create_account">إنشاء حساب</string>
+    <string name="already_a_member_login">مستخدم قديم؟ تسجيل الدخول</string>
+    <string name="name">الإسم</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="confirm_password">تاكيد الرقم السري</string>
+    <string name="todo">TODO</string>
+    <string name="Your_point">نقاطك</string>
+    <string name="money_cash">جنية</string>
+    <string name="firist_graph">My First Bar Graph!</string>
+    <string name="the_5_items_2_pound">5 نقط = 2 جنيه</string>
+    <string name="your_balance">رصيدك =</string>
+    <string name="save">حفظ</string>
+    <string name="update_your_profile">تحديث البيانات !</string>
+    <string name="change_language">تغيير اللغة</string>
+
+</resources>

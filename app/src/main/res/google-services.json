@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "817320836704",
+    "firebase_url": "https://wastebank-d8fe6.firebaseio.com",
+    "project_id": "wastebank-d8fe6",
+    "storage_bucket": "wastebank-d8fe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817320836704:android:3e00ac2443c6fb86048d05",
+        "android_client_info": {
+          "package_name": "com.example.wastebank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817320836704-oosfhp3rtf36dm0cu7eia841che2up30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhUPAmXLdJvNqBtOG6VLU9Gc8B69Bq4fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817320836704-oosfhp3rtf36dm0cu7eia841che2up30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
